@@ -4,3 +4,5 @@ line1 test
 line1 for test 
 line 2 for test
 >>>>>>> 3f3d5df9d612f0b86c20a809352f8d081a48f61c
+line 3 push test from local repository
+
