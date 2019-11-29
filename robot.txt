@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+New text insert for amend test1
 line1 test
 =======
 line1 for test 
